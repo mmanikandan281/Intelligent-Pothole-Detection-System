@@ -1,4 +1,8 @@
 # Intelligent-Pothole-Detection-System
+
+![Screenshot (10)](https://github.com/user-attachments/assets/52396e9a-8d91-46f8-9e67-ef82a3cba89e)
+
+
 Utilizes computer vision and machine learning for real-time pothole detection via webcams. Provides efficient and cost-effective monitoring, aiding timely road repairs through cloud-based reporting for government agencies
 How to Run TensorFlow Lite Models on Windows
 
